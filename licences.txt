@@ -1,0 +1,25 @@
+For the tweaked versions, see the licences in the mods.
+The rest are created by me and are WTFPL.
+
+Key:  
+c=original texture created by
+t=created by someone else, tweaked by me
+l=licence
+i=created by me but inspired by another texture by someone else
+
+
+Dryplants & Ferns: 
+	All textures: t:Mossmannikin
+
+Default:
+	Grass, Grass Side, Grass Footsteps, and water textures: t:Probably Cisoun  (Minetest Game)
+	Leaves: t:RealBadAngel  (Bumped texture pack)
+	Cobble: t:Brane Praefect's (Okay texture pack) CC-BY-SA 2.0.
+	Glass: i:Kaddakaddenz (DesDes game/map)
+	Gravel: t:sdzen 
+
+Mobf_Animals-Master: 
+	Butterfly & Turtle: t:Aspiremint 
+	
+
+
