@@ -17,7 +17,7 @@ Default:
 	default_grass_4, desert_stone: t:VanessaE l:WTFPL
 	bookshelf: t:? (minetest_game) l:?
 	Leaves: t:RealBadAngel  (Bumped texture pack) l:?
-	Cobble: t:Brane Praefect's (Okay texture pack) l:CC-BY-SA 2.0.
+	Cobble & Furnace: t:Brane Praefect's (Okay texture pack) l:CC-BY-SA 2.0.
 	Glass: i:kddekadenz (DesDes game/map)  l:CC-BY 3.0?
 	Gravel: t:sdzen l:?
 	wood: t:G4JC (minetest_game-Almost MC Texture Pack) l:Creative Commons BY-SA 3.0. 
