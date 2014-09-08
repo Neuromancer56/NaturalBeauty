@@ -7,24 +7,14 @@ l=licence
 i=created by me but inspired by another texture by someone else
 
 
-Dryplants & Ferns: 
-	All textures: t:Mossmannikin l:WTFPL
-
-Default:
-	Grass, Grass Side, Grass Footsteps, tree, and water: t:Cisoun  (minetest_game)  l:WTFPL
+	tree, and water: t:Cisoun  (minetest_game)  l:WTFPL
 	water_source_animated, water_flowing_animated: t:RealBadAngel (minetest_game)  l:WTFPL
 	default_grass_4, desert_stone: t:VanessaE l:WTFPL
 	bookshelf: t:? (minetest_game) l:?
 	Leaves: t:RealBadAngel  (Bumped texture pack) l:?
 	Cobble & Furnace: t:Brane Praefect's (Okay texture pack) l:CC-BY-SA 2.0.
-	Gravel: t:sdzen l:?
 	wood: t:G4JC (minetest_game-Almost MC Texture Pack) l:Creative Commons BY-SA 3.0. 
-
-Mobf_Animals-Master: 
-	Butterfly & Turtle: t:Aspiremint l:?
 	
-MoreTrees:
-	moretrees_apple_tree_leaves: t:VanessaE or RealBadAngel l:WTFPL
 	
 
 
